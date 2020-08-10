@@ -1,0 +1,28 @@
+{
+  "name": "fccnode",
+  "version": "1.0.0",
+  "description": "fcc node problems",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margueriteblair/node-fcc.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "express"
+  ],
+  "author": "Marguerite Blair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/margueriteblair/node-fcc/issues"
+  },
+  "homepage": "https://github.com/margueriteblair/node-fcc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
